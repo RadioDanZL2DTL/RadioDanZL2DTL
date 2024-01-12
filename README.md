@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @RadioDanZL2DTL
+- 👀 I’m interested in all Amateur Radio related projects, Crypto projects
+- 🌱 I’m currently learning how to make my blog using Hugo and Github Pages
+- 💞️ I’m looking to collaborate on making an FT8 transceiver 
+- 📫 How to reach me: radiodanzl2dtl@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am the youngest amateur radio operator currently in New Zealand :)
